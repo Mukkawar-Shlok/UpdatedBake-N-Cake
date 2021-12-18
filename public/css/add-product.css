@@ -1,0 +1,13 @@
+* {
+  margin: 0%;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+#add_product_form {
+  color: rgb(177, 177, 177);
+  display: flexbox;
+  margin-top: 5rem;
+  position: absolute;
+  top: 100%;
+}
